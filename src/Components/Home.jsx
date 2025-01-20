@@ -35,7 +35,7 @@ export default function Home() {
               {/* Social media icon */}
               <div className='flex flex-col items-center md:flex-row justify-between space-y-6 md:space-y-0'>
                 <div className=' space-y-2'>
-                  <h1 className='font-bold text-left md:text-center'>Available on :</h1>
+                  <h1 className='font-bold text-center'>Available on :</h1>
                   <div className='flex space-x-5'>
                     <a href="https://www.facebook.com/" target="_blank"><TiSocialFacebookCircular className='text-2xl cursor-pointer' /></a>
                     <a href="https://www.instagram.com/" target="_blank"><TiSocialInstagram className='text-2xl cursor-pointer' /></a>
